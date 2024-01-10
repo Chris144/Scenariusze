@@ -9,10 +9,10 @@ Feature: Search for a phrase by content category
     Then I am taken to teh search pages
     Then I check the results
     And  I click on the news filter in the filter navigation
-    Then I am taken to teh search pages
+    Then I am taken to the search pages
     Then I check the results
     And  I click on the shopping filter in the filter navigation
-    Then I am taken to teh search pages
+    Then I am taken to the search pages
     Then I check the results
 
 
